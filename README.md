@@ -5,7 +5,9 @@
 ## Description
 It's a “realistic” 3D graphical representation of the inside of a maze from a first person perspective. This made by using the Ray-casting principles.
 
-It was made due to my studying in 21-school, Russia.
+Project was made at start of my , Russia, Kazan.
+
+## Goals
 The main goal of project - learn what is ray-casting is and make a program, which represents a walking into maze.
 
 ## Requirements
@@ -40,6 +42,6 @@ In general config file contains info about
 
 In addition you can save a "screenshot" (in .bmp format) of first player view in game by adding `--save` argument to run command.
 
-`./cub3D configs/conf.cub --save`
+`./cub3D maps/conf.cub --save`
 
 Screenshot wiil appear in project root directory.
